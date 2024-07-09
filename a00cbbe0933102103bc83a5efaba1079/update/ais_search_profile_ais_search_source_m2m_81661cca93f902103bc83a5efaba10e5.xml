@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_search_source_m2m">
+    <ais_search_profile_ais_search_source_m2m action="INSERT_OR_UPDATE">
+        <profile display_value="solicitao-de-crdito Search Profile">375698cab3f902109d32ab8bf6ab66c6</profile>
+        <search_source display_value="Auditoria">81661cca93f902103bc83a5efaba10e2</search_source>
+        <sys_class_name>ais_search_profile_ais_search_source_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 11:03:14</sys_created_on>
+        <sys_id>81661cca93f902103bc83a5efaba10e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>solicitao-de-crdito Search Profile.Auditoria</sys_name>
+        <sys_package display_value="Solicitação de Crédito" source="x_1328471_solici_0">a00cbbe0933102103bc83a5efaba1079</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Crédito">a00cbbe0933102103bc83a5efaba1079</sys_scope>
+        <sys_update_name>ais_search_profile_ais_search_source_m2m_81661cca93f902103bc83a5efaba10e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 11:03:14</sys_updated_on>
+    </ais_search_profile_ais_search_source_m2m>
+</record_update>

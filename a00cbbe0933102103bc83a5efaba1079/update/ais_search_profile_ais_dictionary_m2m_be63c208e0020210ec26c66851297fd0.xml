@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="default_stop_word_dictionary">9865058bc7031010d1cfd9795cc26037</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="gerenciamento-de-credito Search Profile">3263c2084d02021004543d8decd650d3</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-04 00:07:27</sys_created_on>
+        <sys_id>be63c208e0020210ec26c66851297fd0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>default_stop_word_dictionary.gerenciamento-de-credito Search Profile</sys_name>
+        <sys_package display_value="Solicitação de Crédito" source="x_1328471_solici_0">a00cbbe0933102103bc83a5efaba1079</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Crédito">a00cbbe0933102103bc83a5efaba1079</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_be63c208e0020210ec26c66851297fd0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-04 00:07:27</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom">
+    <sc_cat_item_user_criteria_mtom action="DELETE">
+        <sc_cat_item display_value="Solicitar crédito">273fbfe4933102103bc83a5efaba106a</sc_cat_item>
+        <sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-23 13:18:24</sys_created_on>
+        <sys_id>42fe4cf8937102103bc83a5efaba1031</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Solicitar crédito.Any User</sys_name>
+        <sys_package display_value="Solicitação de Crédito" source="x_1328471_solici_0">a00cbbe0933102103bc83a5efaba1079</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Crédito">a00cbbe0933102103bc83a5efaba1079</sys_scope>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_42fe4cf8937102103bc83a5efaba1031</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-23 13:18:24</sys_updated_on>
+        <user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria>
+    </sc_cat_item_user_criteria_mtom>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Solicitação de Crédito">a00cbbe0933102103bc83a5efaba1079</application>
+        <file_path/>
+        <instance_id>d4a540531b02b5147d9d2f8dee4bcbaf</instance_id>
+        <instance_name>dev195984</instance_name>
+        <name>sc_cat_item_user_criteria_mtom_42fe4cf8937102103bc83a5efaba1031</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_user_criteria_mtom"><sc_cat_item_user_criteria_mtom action="INSERT_OR_UPDATE"><sc_cat_item display_value="Solicitar crédito">273fbfe4933102103bc83a5efaba106a</sc_cat_item><sys_class_name>sc_cat_item_user_criteria_mtom</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-23 13:18:24</sys_created_on><sys_id>42fe4cf8937102103bc83a5efaba1031</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Solicitar crédito.Any User</sys_name><sys_package display_value="Solicitação de Crédito" source="x_1328471_solici_0">a00cbbe0933102103bc83a5efaba1079</sys_package><sys_policy/><sys_scope display_value="Solicitação de Crédito">a00cbbe0933102103bc83a5efaba1079</sys_scope><sys_update_name>sc_cat_item_user_criteria_mtom_42fe4cf8937102103bc83a5efaba1031</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-23 13:18:24</sys_updated_on><user_criteria display_value="Any User">fb1166d64fff0200086eeed18110c7ab</user_criteria></sc_cat_item_user_criteria_mtom></record_update>]]></payload>
+        <payload_hash>1059172901</payload_hash>
+        <record_name>Solicitar crédito.Any User</record_name>
+        <reverted_from/>
+        <source>a80cbbe0933102103bc83a5efaba107d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-23 13:18:24</sys_created_on>
+        <sys_id>06fe4cf8937102103bc83a5efaba1035</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f0b1b85f20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-23 13:18:24</sys_updated_on>
+        <type>Catalog Item Available for</type>
+        <update_guid>86fe4cf800710210bb5893fcb3d3b134</update_guid>
+        <update_guid_history>86fe4cf800710210bb5893fcb3d3b134:1059172901</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Solicitar crédito.Any User">ed1fccf8937102103bc83a5efaba108b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-23 13:18:55</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_user_criteria_mtom">sc_cat_item_user_criteria_mtom</sys_db_object>
+        <sys_id>19be0429f7c5403284e9b8d26f0c7051</sys_id>
+        <sys_metadata>42fe4cf8937102103bc83a5efaba1031</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Solicitar crédito.Any User</sys_name>
+        <sys_package display_value="Solicitação de Crédito" source="x_1328471_solici_0">a00cbbe0933102103bc83a5efaba1079</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Crédito">a00cbbe0933102103bc83a5efaba1079</sys_scope>
+        <sys_scope_delete display_value="">2e5b34f3ad8b4c9b808c5d57ded52489</sys_scope_delete>
+        <sys_update_name>sc_cat_item_user_criteria_mtom_42fe4cf8937102103bc83a5efaba1031</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_user_criteria_mtom_42fe4cf8937102103bc83a5efaba1031">06fe4cf8937102103bc83a5efaba1035</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-23 13:18:55</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

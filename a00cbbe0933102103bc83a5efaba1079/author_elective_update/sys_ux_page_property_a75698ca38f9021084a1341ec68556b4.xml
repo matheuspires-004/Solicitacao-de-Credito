@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description/>
+        <name>chrome_notification_uiRoute</name>
+        <page display_value="">735698ca9cf902107c675812e14cc1c6</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 11:03:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>a75698ca38f9021084a1341ec68556b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="Solicitação de Crédito" source="x_1328471_solici_0">a00cbbe0933102103bc83a5efaba1079</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Crédito">a00cbbe0933102103bc83a5efaba1079</sys_scope>
+        <sys_update_name>sys_ux_page_property_a75698ca38f9021084a1341ec68556b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 11:03:10</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1328471_solici_0.735698ca9cf902107c675812e14cc1c6.root.chrome_notification_uiRoute</unique_name>
+        <value>cb1af195872023002941b53046cb0b4e</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Solicitação de Crédito">a00cbbe0933102103bc83a5efaba1079</application>
+        <file_path/>
+        <instance_id>d4a540531b02b5147d9d2f8dee4bcbaf</instance_id>
+        <instance_name>dev195984</instance_name>
+        <name>sys_ux_page_property_a75698ca38f9021084a1341ec68556b4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description/><name>chrome_notification_uiRoute</name><page display_value="">735698ca9cf902107c675812e14cc1c6</page><required_translations>[]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-27 11:03:10</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>global</sys_domain_path><sys_id>a75698ca38f9021084a1341ec68556b4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_notification_uiRoute</sys_name><sys_package display_value="Solicitação de Crédito" source="x_1328471_solici_0">a00cbbe0933102103bc83a5efaba1079</sys_package><sys_policy/><sys_scope display_value="Solicitação de Crédito">a00cbbe0933102103bc83a5efaba1079</sys_scope><sys_update_name>sys_ux_page_property_a75698ca38f9021084a1341ec68556b4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-27 11:03:10</sys_updated_on><type>string</type><unique_name>x_1328471_solici_0.735698ca9cf902107c675812e14cc1c6.root.chrome_notification_uiRoute</unique_name><value>cb1af195872023002941b53046cb0b4e</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-1092204826</payload_hash>
+        <record_name>chrome_notification_uiRoute</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 11:05:44</sys_created_on>
+        <sys_id>79f65c0e93f902103bc83a5efaba10ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f1f3b82cc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 11:05:44</sys_updated_on>
+        <type>UX Page Property</type>
+        <update_guid>39f65c0efef90210ee0b56c35545fdab</update_guid>
+        <update_guid_history>39f65c0efef90210ee0b56c35545fdab:-1092204826</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 11:05:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>1818530c5090435085dd43d19b62de40</sys_id>
+        <sys_metadata>a75698ca38f9021084a1341ec68556b4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_notification_uiRoute</sys_name>
+        <sys_package display_value="Solicitação de Crédito" source="x_1328471_solici_0">a00cbbe0933102103bc83a5efaba1079</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Crédito">a00cbbe0933102103bc83a5efaba1079</sys_scope>
+        <sys_scope_delete display_value="">2e5b34f3ad8b4c9b808c5d57ded52489</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_a75698ca38f9021084a1341ec68556b4</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_a75698ca38f9021084a1341ec68556b4">79f65c0e93f902103bc83a5efaba10ab</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 11:05:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

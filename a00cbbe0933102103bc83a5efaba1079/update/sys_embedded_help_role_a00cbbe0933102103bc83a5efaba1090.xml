@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_1328471_solici_0.admin" name="x_1328471_solici_0.admin">e40cbbe0933102103bc83a5efaba108e</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-23 11:55:33</sys_created_on>
+        <sys_id>a00cbbe0933102103bc83a5efaba1090</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e40cbbe0933102103bc83a5efaba108e</sys_name>
+        <sys_package display_value="Solicitação de Crédito" source="x_1328471_solici_0">a00cbbe0933102103bc83a5efaba1079</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Crédito">a00cbbe0933102103bc83a5efaba1079</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a00cbbe0933102103bc83a5efaba1090</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-23 11:55:33</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

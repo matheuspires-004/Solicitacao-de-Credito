@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="DELETE">
+        <active>true</active>
+        <applicability display_value="Audience for app solicitao-de-crdito">b8661cca93f902103bc83a5efaba100c</applicability>
+        <list/>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 11:03:14</sys_created_on>
+        <sys_id>fc661cca93f902103bc83a5efaba1088</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Solicitação de Crédito" source="x_1328471_solici_0">a00cbbe0933102103bc83a5efaba1079</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Crédito">a00cbbe0933102103bc83a5efaba1079</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_fc661cca93f902103bc83a5efaba1088</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 11:03:14</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Solicitação de Crédito">a00cbbe0933102103bc83a5efaba1079</application>
+        <file_path/>
+        <instance_id>d4a540531b02b5147d9d2f8dee4bcbaf</instance_id>
+        <instance_name>dev195984</instance_name>
+        <name>sys_ux_applicability_m2m_list_fc661cca93f902103bc83a5efaba1088</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list"><sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE"><active>true</active><applicability display_value="Audience for app solicitao-de-crdito">b8661cca93f902103bc83a5efaba100c</applicability><list/><order>100</order><sys_class_name>sys_ux_applicability_m2m_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-04-27 11:03:14</sys_created_on><sys_id>fc661cca93f902103bc83a5efaba1088</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Solicitação de Crédito" source="x_1328471_solici_0">a00cbbe0933102103bc83a5efaba1079</sys_package><sys_policy/><sys_scope display_value="Solicitação de Crédito">a00cbbe0933102103bc83a5efaba1079</sys_scope><sys_update_name>sys_ux_applicability_m2m_list_fc661cca93f902103bc83a5efaba1088</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-04-27 11:03:14</sys_updated_on></sys_ux_applicability_m2m_list></record_update>]]></payload>
+        <payload_hash>1316675402</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>a80cbbe0933102103bc83a5efaba107d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 11:05:43</sys_created_on>
+        <sys_id>11f65c0e93f902103bc83a5efaba1009</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18f1f3b7e760000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 11:05:43</sys_updated_on>
+        <type>List Applicability</type>
+        <update_guid>3c661ccaa4f9021021ab2e2cf085e489</update_guid>
+        <update_guid_history>3c661ccaa4f9021021ab2e2cf085e489:-4821940,3c661ccaa4f9021021ab2e2cf085e489:-4821940</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-04-27 11:05:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_applicability_m2m_list">sys_ux_applicability_m2m_list</sys_db_object>
+        <sys_id>1676adb141d5455f82c0a071b8d67cb9</sys_id>
+        <sys_metadata>fc661cca93f902103bc83a5efaba1088</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Solicitação de Crédito" source="x_1328471_solici_0">a00cbbe0933102103bc83a5efaba1079</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Crédito">a00cbbe0933102103bc83a5efaba1079</sys_scope>
+        <sys_scope_delete display_value="">2e5b34f3ad8b4c9b808c5d57ded52489</sys_scope_delete>
+        <sys_update_name>sys_ux_applicability_m2m_list_fc661cca93f902103bc83a5efaba1088</sys_update_name>
+        <sys_update_version display_value="sys_ux_applicability_m2m_list_fc661cca93f902103bc83a5efaba1088">11f65c0e93f902103bc83a5efaba1009</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-04-27 11:05:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

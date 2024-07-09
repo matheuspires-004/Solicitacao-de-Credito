@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="faade30193f182103bc83a5efaba10d6" label="Auditoria" max_length="40" name="x_1328471_solici_0_auditoria" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Quantidade" max_length="40" name="quantidade" type="integer"/>
+        <element label="Solicitação de crédito" max_length="32" name="solicitacao_de_credito" reference="x_1328471_solici_0_solicitacoes" type="reference"/>
+        <element label="Solicitante" max_length="100" name="solicitante" type="string"/>
+        <element label="Valor do crédito" max_length="40" name="valor_do_credito" type="currency"/>
+        <index name="index">
+            <element name="solicitacao_de_credito"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_1328471_solici_0_solicitacoes" version="2" view="workspace-solicita231227o-de-cr233dito-0">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Solicitações - Workspace Solicita231227o de Cr233dito 0" name="x_1328471_solici_0_solicitacoes" related_list="NULL" sys_domain="global" view="375698caf1f902108e0c2ccddce488bc">29665cca93f902103bc83a5efaba10e6</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>sysapproval_approver.sysapproval</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-27 11:03:17</sys_created_on>
+            <sys_id>ed665cca93f902103bc83a5efaba10e7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-27 11:03:17</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Solicitações - Workspace Solicita231227o de Cr233dito 0</calculated_name>
+            <filter/>
+            <name>x_1328471_solici_0_solicitacoes</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-04-27 11:03:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>29665cca93f902103bc83a5efaba10e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Solicitações - Workspace Solicita231227o de Cr233dito 0</sys_name>
+            <sys_package display_value="Solicitação de Crédito" source="x_1328471_solici_0">a00cbbe0933102103bc83a5efaba1079</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Solicitação de Crédito">a00cbbe0933102103bc83a5efaba1079</sys_scope>
+            <sys_update_name>sys_ui_related_x_1328471_solici_0_solicitacoes_workspace-solicita231227o-de-cr233dito-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-04-27 11:03:17</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Solicita231227o de Cr233dito 0" name="workspace-solicita231227o-de-cr233dito-0">375698caf1f902108e0c2ccddce488bc</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

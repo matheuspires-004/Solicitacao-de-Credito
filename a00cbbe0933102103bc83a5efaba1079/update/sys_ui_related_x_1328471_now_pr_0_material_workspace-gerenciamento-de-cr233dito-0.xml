@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_1328471_now_pr_0_material" version="2" view="workspace-gerenciamento-de-cr233dito-0">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Material - Workspace Gerenciamento de Cr233dito 0" name="x_1328471_now_pr_0_material" related_list="NULL" sys_domain="global" view="3263c208570202108c614983784beec9">dd738608930202103bc83a5efaba10f2</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>sysapproval_approver.sysapproval</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-04 00:07:36</sys_created_on>
+            <sys_id>95738608930202103bc83a5efaba10f4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-04 00:07:36</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Material - Workspace Gerenciamento de Cr233dito 0</calculated_name>
+            <filter/>
+            <name>x_1328471_now_pr_0_material</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-05-04 00:07:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>dd738608930202103bc83a5efaba10f2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Material - Workspace Gerenciamento de Cr233dito 0</sys_name>
+            <sys_package display_value="Solicitação de Crédito" source="x_1328471_solici_0">a00cbbe0933102103bc83a5efaba1079</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Solicitação de Crédito">a00cbbe0933102103bc83a5efaba1079</sys_scope>
+            <sys_update_name>sys_ui_related_x_1328471_now_pr_0_material_workspace-gerenciamento-de-cr233dito-0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-05-04 00:07:36</sys_updated_on>
+            <sys_user/>
+            <view display_value="Workspace Gerenciamento de Cr233dito 0" name="workspace-gerenciamento-de-cr233dito-0">3263c208570202108c614983784beec9</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

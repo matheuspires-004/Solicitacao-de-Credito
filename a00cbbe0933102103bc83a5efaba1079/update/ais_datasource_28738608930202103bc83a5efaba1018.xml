@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_datasource">
+    <ais_datasource action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <filter/>
+        <force_late_binding>false</force_late_binding>
+        <name>Tipo de Material Table</name>
+        <retention_policy/>
+        <source>x_1328471_now_pr_0_tipo_de_material</source>
+        <sys_class_name>ais_datasource</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-04 00:07:33</sys_created_on>
+        <sys_id>28738608930202103bc83a5efaba1018</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tipo de Material Table</sys_name>
+        <sys_package display_value="Solicitação de Crédito" source="x_1328471_solici_0">a00cbbe0933102103bc83a5efaba1079</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Crédito">a00cbbe0933102103bc83a5efaba1079</sys_scope>
+        <sys_update_name>ais_datasource_28738608930202103bc83a5efaba1018</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-04 00:07:33</sys_updated_on>
+        <type>internal</type>
+    </ais_datasource>
+</record_update>

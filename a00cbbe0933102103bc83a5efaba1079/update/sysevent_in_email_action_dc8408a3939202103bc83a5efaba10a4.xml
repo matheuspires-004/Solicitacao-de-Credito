@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sysevent_in_email_action">
+    <sysevent_in_email_action action="INSERT_OR_UPDATE">
+        <action>record_action</action>
+        <active>true</active>
+        <assignment_operator/>
+        <condition_script/>
+        <description>Rascunho do email:&#13;
+____________________________________________________________________________________&#13;
+&#13;
+Subject: Solicitação de Crédito&#13;
+__________________________________________________________&#13;
+&#13;
+Body:&#13;
+&#13;
+Informações do solicitante&#13;
+&#13;
+NOME:&#13;
+TELEFONE:&#13;
+EMAIL: &#13;
+SEXO:&#13;
+CPF:&#13;
+RG:&#13;
+ENDERECO:&#13;
+&#13;
+           Informações do crédito&#13;
+&#13;
+AGENCIA:&#13;
+VALOR: &#13;
+CONTA:&#13;
+QUANTIDADE DE PARCELAS:</description>
+        <event_name>email.read</event_name>
+        <filter_condition table="sys_email">subjectLIKESolicitação de Crédito^EQ<item endquery="false" field="subject" goto="false" newquery="false" operator="LIKE" or="false" value="Solicitação de Crédito"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter_condition>
+        <from/>
+        <name>Create Record - Solicitação de Crédito</name>
+        <order>100</order>
+        <reply_email/>
+        <required_roles/>
+        <script><![CDATA[(function runAction( /*GlideRecord*/ current, /*GlideRecord*/ event, /*EmailWrapper*/ email, /*ScopedEmailLogger*/ logger, /*EmailClassifier*/ classifier) {
+
+	//gs.info("**** Processando email ****\n" + email.subject + "\nBody: " + email.body_text );
+
+	//gs.info('subject: ' + email.subject + ' | nome: ' + email.body.nome + ' | endereco: ' + email.body.endereco + ' | conta: ' + email.body.conta);
+
+
+	//VERIFICA O VALOR DE CADA VARIÁVEL DO BODY E ATRIBUI EM SEU RESPECTIVO CAMPO
+
+	if (email.body_text != undefined) {
+
+       current.description = 'Body Text: \n\n' + email.body_text;
+		
+    }
+
+	if (email.subject != undefined) {
+
+        current.short_description = email.subject;
+		
+    }
+
+    if (email.body.nome != undefined) {
+
+        current.nome = email.body.nome;
+		
+    }
+
+	if (email.body.telefone != undefined) {
+
+        current.telefone = email.body.telefone;
+		
+    }
+
+	if (email.body.email != undefined) {
+
+       current.email = email.body.email;
+		
+    }
+
+	if (email.body.sexo != undefined) {
+
+        current.sexo = email.body.sexo;
+		
+    }
+
+	if (email.body.cpf != undefined) {
+
+        current.cpf = email.body.cpf;
+		
+    }
+
+	if (email.body.rg != undefined) {
+
+        current.rg = email.body.rg;
+		
+    }
+
+	if (email.body.endereco != undefined) {
+
+        current.endereco = email.body.endereco;
+		
+    }
+
+	if (email.body.agencia != undefined) {
+
+        current.agencia = email.body.agencia;
+		
+    }
+
+	if (email.body.valor != undefined) {
+
+        current.valor_do_credito = email.body.valor;
+		
+    }
+
+	if (email.body.conta != undefined) {
+
+        current.conta = email.body.conta;
+		
+    }
+
+	if (email.body.quantidade_de_parcelas != undefined) {
+
+        current.quantidade = email.body.quantidade_de_parcelas;
+		
+    }
+
+ current.insert();
+
+})(current, event, email, logger, classifier);]]></script>
+        <stop_processing>false</stop_processing>
+        <sys_class_name>sysevent_in_email_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-26 22:15:19</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>dc8408a3939202103bc83a5efaba10a4</sys_id>
+        <sys_mod_count>18</sys_mod_count>
+        <sys_name>Create Record - Solicitação de Crédito</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Solicitação de Crédito" source="x_1328471_solici_0">a00cbbe0933102103bc83a5efaba1079</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Crédito">a00cbbe0933102103bc83a5efaba1079</sys_scope>
+        <sys_update_name>sysevent_in_email_action_dc8408a3939202103bc83a5efaba10a4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-27 01:19:54</sys_updated_on>
+        <table>x_1328471_solici_0_solicitacoes</table>
+        <template/>
+        <type>new</type>
+    </sysevent_in_email_action>
+</record_update>
